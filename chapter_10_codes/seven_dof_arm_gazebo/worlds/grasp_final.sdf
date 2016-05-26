@@ -171,7 +171,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>/home/robot/catkin_ws/src/mastering_ros_robot_description_pkg/meshes/sensors/xtion_pro_live/xtion_pro_live.dae</uri>
+              <uri>$(find mastering_ros_robot_description_pkg)/meshes/sensors/xtion_pro_live/xtion_pro_live.dae</uri>
             </mesh>
           </geometry>
         </visual>
